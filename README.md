@@ -37,14 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=an0nctf01&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=an0nctf01&theme=github" alt="GitHub Activity Graph" />
-</p>
-
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=an0nctf01&theme=github" alt="an0nctf's GitHub Activity Graph" />
-</p>
+![GitHub Contributions](https://github-contributions-api.jogruber.de/v4/an0nctf01)
 
 ---
 
@@ -64,7 +57,7 @@
   <a href="mailto:anonctf01@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="28"/>
   </a>
-  <a href="https://discord.gg/qRKuUBmVVj" target="_blank" rel="noopener noreferrer">
+  <a href="https://discord.gg/qRKuUbmVVJ" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="28"/>
   </a>
   <a href="https://github.com/an0nctf01" target="_blank" rel="noopener noreferrer">
