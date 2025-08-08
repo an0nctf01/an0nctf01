@@ -37,7 +37,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=an0nctf01&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-![GitHub Contributions](https://github-contributions-api.jogruber.de/v4/an0nctf01)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=an0nctf01&theme=radical" />
+</p>
 
 ---
 
