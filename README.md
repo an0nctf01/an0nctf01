@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Ethical Hacker | Programmer | Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150" alt="hacker animation" />
+  <img src="[https://avatars.githubusercontent.com/u/138947744?v=4" width="150" alt="hacker animation" />
 </p>
 
 ---
@@ -31,11 +31,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=an0nctf01&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=an0nctf01&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -53,10 +53,9 @@
 ### 📫 How to reach me
 
 <p align="center">
-  <a href="mailto:your.email@example.com" target="_blank">Email</a> |
+  <a href="mailto:anonctf01@gmail.com" target="_blank">Email</a> |
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">LinkedIn</a> |
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">Twitter</a> |
-  <a href="https://discord.gg/YOUR_DISCORD" target="_blank">Discord</a>
+  <a href="https://discord.gg/anonctf" target="_blank">Discord</a>
 </p>
 
 ---
