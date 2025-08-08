@@ -1,16 +1,19 @@
-<h1 align="center">Hi 👋, I'm an0nctf </h1>
+<h1 align="center">Hello there 👋, I'm an0nctf </h1>
 <h3 align="center">A passionate Ethical Hacker | Programmer | Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <img src="[https://avatars.githubusercontent.com/u/138947744?v=4" width="150" alt="hacker animation" />
+  <img src="https://avatars.githubusercontent.com/u/138947744?v=4" width="150"/>
 </p>
 
 ---
 
 ### 🚀 About Me
+
+  Ethical hacker & cybersecurity enthusiast from the Balkans, mastering exploits and pushing boundaries. Evolving through real-world challenges and making an impact in the security community.
+
 - 🔐 Experienced Ethical Hacker & Security Researcher  
 - 💻 Skilled in Python, C, JavaScript, Bash, and more  
-- 🛠️ Proficient with tools like Kali Linux, Metasploit, Nmap, Wireshark, Burp Suite  
+- 🛠️ Proficient with tools like Arch Linux, Metasploit, Nmap, Wireshark, Burp Suite  
 - 🌐 Passionate about cybersecurity, penetration testing, and exploit development  
 - 📚 Always learning the latest in hacking techniques and software development  
 - 🎯 Goal: To secure systems by finding vulnerabilities and fixing them  
@@ -21,10 +24,10 @@
 
 | Programming | Tools & Frameworks       | OS & Platforms       | Other Skills          |
 |-------------|-------------------------|---------------------|-----------------------|
-| Python 🐍   | Metasploit, Burp Suite  | Kali Linux 🐧       | Network Security      |
-| C/C++       | Nmap, Wireshark         | Windows, Linux      | Vulnerability Research|
-| JavaScript  | Docker, Git             | Android             | Reverse Engineering   |
-| Bash/Shell  | SQLmap, John the Ripper | Raspberry Pi        | Exploit Development   |
+| Python 🐍   | Metasploit, Burp Suite  | Arch Linux 🐧       | Network Security      |
+| C/C++       | Nmap, Wireshark         | Windows             | Vulnerability Research|
+| JavaScript  | Docker, Git, Linux Essentials | Android             | Reverse Engineering   |
+| Bash/Shell  | SQLmap, John the Ripper | ESP 32 WROOM        | Exploit Development   |
 
 ---
 
@@ -44,9 +47,9 @@
 
 | Project Name | Description                              | Link                                   |
 |--------------|------------------------------------------|---------------------------------------|
-| Awesome-Exploit-Scripts | Collection of my exploit scripts and PoCs | [Repo Link](https://github.com/YOUR_GITHUB_USERNAME/Awesome-Exploit-Scripts) |
-| CyberSec-Tools | Security tools for penetration testing | [Repo Link](https://github.com/YOUR_GITHUB_USERNAME/CyberSec-Tools) |
-| Python-Scripts | Useful Python scripts for automation    | [Repo Link](https://github.com/YOUR_GITHUB_USERNAME/Python-Scripts) |
+| AIO Roolkit | Collection of my exploit scripts and PoCs | [Repo Link](https://github.com/an0nctf/ChokeHold) |
+| CyberSec-Tools | Security tools for penetration testing | [Repo Link](https://github.com/an0nctf/CyberSec-Tools) |
+| Python-Scripts | Useful Python scripts for automation    | [Repo Link](https://github.com/an0nctf/Python-Scripts) |
 
 ---
 
@@ -54,8 +57,7 @@
 
 <p align="center">
   <a href="mailto:anonctf01@gmail.com" target="_blank">Email</a> |
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">LinkedIn</a> |
-  <a href="https://discord.gg/anonctf" target="_blank">Discord</a>
+  <a href="https://discord.gg/qRKuUbmVVJ" target="_blank">Discord</a>
 </p>
 
 ---
