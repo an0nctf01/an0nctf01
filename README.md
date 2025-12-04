@@ -47,9 +47,9 @@
 
 | Project Name | Description                              | Link                                   |
 |--------------|------------------------------------------|---------------------------------------|
-| AIO Python | Python Tool AIO scripts | [Repo Link]((https://github.com/an0nctf01/python-aio) |
-| CyberSec-Tools | Security tools for penetration testing | [Repo Link](https://github.com/an0nctf/CyberSec-Tools) |
-| Python-Scripts | Useful Python scripts for automation    | [Repo Link](https://github.com/an0nctf/Python-Scripts) |
+| AIO Python | Python Tool AIO scripts | [Repo Link](https://github.com/an0nctf01/python-aio) |
+| CyberSec-Tools | Upcoming Rootkit | [Repo Link](https://github.com/an0nctf/ChokeHold) |
+| Python-Scripts | Useful Python scripts for mathematics    | [Repo Link](https://github.com/an0nctf01/Calculator) |
 
 ---
 
