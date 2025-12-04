@@ -22,12 +22,12 @@
 
 ### 🛠️ My Skill Set
 
-| Programming | Tools & Frameworks      | Other Skills          |
-|-------------|-------------------------|---------------------|-----------------------|
-| Python 🐍   | Metasploit, Burp Suite         | Network Security      |
-| C/C++       | Nmap, Wireshark                      | Vulnerability Research|
-| JavaScript  | Docker, Git, Linux Essentials               | Reverse Engineering   |
-| Bash/Shell  | SQLmap, John the Ripper         | Exploit Development   |
+| Programming | Tools & Frameworks      | Other Skills|
+|-------------|-------------------------|---------------------|
+| Python 🐍   | Metasploit, Burp Suite  | Network Security    |
+| C/C++       | Nmap, Wireshark         | Vulnerability Research|
+| JavaScript  | Docker, Git, Linux Essentials | Reverse Engineering|
+| Bash/Shell  | SQLmap, John the Ripper  Exploit Development|
 
 ---
 
