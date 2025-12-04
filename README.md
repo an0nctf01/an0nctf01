@@ -12,7 +12,7 @@
   Ethical hacker & cybersecurity enthusiast from the Balkans, mastering exploits and pushing boundaries. Evolving through real-world challenges and making an impact in the security community.
 
 - 🔐 Experienced Ethical Hacker & Security Researcher  
-- 💻 Skilled in Python, C, JavaScript, Bash, and more  
+- 💻 Skilled in Python, C, JavaScript, HTML,CSS,Java, and more  
 - 🛠️ Proficient with tools like Arch Linux, Metasploit, Nmap, Wireshark, Burp Suite  
 - 🌐 Passionate about cybersecurity, penetration testing, and exploit development  
 - 📚 Always learning the latest in hacking techniques and software development  
@@ -27,7 +27,7 @@
 | Python 🐍   | Metasploit, Burp Suite  | Network Security    |
 | C/C++       | Nmap, Wireshark         | Vulnerability Research|
 | JavaScript  | Docker, Git, Linux Essentials | Reverse Engineering|
-| Bash/Shell  | SQLmap, John the Ripper  Exploit Development|
+| Bash/Shell  | SQLmap, John the Ripper | Exploit Development|
 
 ---
 
@@ -48,7 +48,7 @@
 | Project Name | Description                              | Link                                   |
 |--------------|------------------------------------------|---------------------------------------|
 | AIO Python | Python Tool AIO scripts | [Repo Link](https://github.com/an0nctf01/python-aio) |
-| CyberSec-Tools | Upcoming Rootkit | [Repo Link](https://github.com/an0nctf/ChokeHold) |
+| CyberSec-Tools | Upcoming Rootkit | [Repo Link](https://github.com/an0nctf01/ChokeHold)) |
 | Python-Scripts | Useful Python scripts for mathematics    | [Repo Link](https://github.com/an0nctf01/Calculator) |
 
 ---
