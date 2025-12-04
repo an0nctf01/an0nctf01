@@ -43,12 +43,11 @@
 
 ---
 
-### 🧰 Projects Highlights
+###  Cool Projects 😎
 
-| Project Name | Description                              | Link                                   |
+| Project Name | Description                              | URL                                   |
 |--------------|------------------------------------------|---------------------------------------|
 | AIO Python | Python Tool AIO scripts | [Repo Link](https://github.com/an0nctf01/python-aio) |
-| CyberSec-Tools | Upcoming Rootkit | [Repo Link](https://github.com/an0nctf01/ChokeHold)) |
 | Python-Scripts | Useful Python scripts for mathematics    | [Repo Link](https://github.com/an0nctf01/Calculator) |
 
 ---
